@@ -1,0 +1,87 @@
+#body{
+  background-color: #C4C7D1;
+}
+#menu_links{
+    background-color: "black";
+    list-style-type: none;
+    margin: 0;
+    padding: 0px 0px;
+    overflow: hidden;
+    font-size: 30px;
+    color: 	#C0C0C0;
+    text-decoration: none;
+}
+#menu_bar{
+    background-color: #333;
+    margin: 0;
+    padding: 5px;
+
+}
+#linkhome{
+  text-align: left;
+  display: inline;
+}
+#link1{
+  text-align: left;
+  display: inline;
+}
+#link2{
+  text-align: left;
+  display: inline;
+}
+#link3{
+  text-align: left;
+  display: inline;
+}
+#carousel-wrapper{
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+#name{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+  font-family: Georgia, serif;
+}
+#newsparagraph1{
+  margin-left: auto;
+  margin-right: auto;
+  height:500px;
+  width:400px;
+  overflow:auto;
+  background-color: #87CEFA;
+  color: #000;
+  font-family:Georgia, serif;
+  padding:10px;
+}
+#paragraphcontainer{
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 20px;
+  font-style: oblique;
+}
+#aboutbody{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #87CEFA;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#aboutlist{
+  font-size: 20px;
+  font-style: Georgia,serif;
+  list-style-type: circle;
+  background-color: #87CEFA;
+}
+#Linkedin{
+  color:#6495ED;
+}
